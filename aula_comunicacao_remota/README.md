@@ -13,4 +13,5 @@ A Invocação de Método Remoto não é nativa da biblioteca padrão do Python. 
 `pip install Pyro5`
 
 **Nota para a Sprint 1 do Projeto (TCC / UniDriver):**
-Para fins didáticos e controle exato sobre o tráfego da rede e portas, o projeto prático da disciplina utilizará a abordagem do **Exemplo 1** (Sockets + JSON). O RPC e o RMI são demonstrados aqui para conhecimento arquitetural de mercado e compreensão teórica.
+Para fins didáticos e controle exato sobre o tráfego da rede e portas, o projeto prático da disciplina utilizará a abordagem do **Exemplo 1** (Sockets + JSON). O RPC e o RMI são demonstrados aqui para conhecimento arquitetural de mercado e compreensão teórica. Mas caso queiram expandir os conhecimentos, fiquem a vontade.
+
